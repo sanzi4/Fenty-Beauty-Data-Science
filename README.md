@@ -14,6 +14,7 @@ So instead of just being worried if my favorite makeup brands are using ingredie
 - [Fenty Side Project Analysis.py] : Visualizing the items as a WordCloud for the common ingredient and organizing data
 
 WordCloud Common Ingredients in Fenty Face Prodcuts
+
 ![alt text](https://github.com/sanzi4/Fenty-Beauty-Data-Science/blob/master/Images/Screen_Shot_2020-08-21_at_12.52.57_AM.png?raw=true)
 
 ## 3. What's Next?
