@@ -1,7 +1,7 @@
 # Makeup
 
-## 1. Ugly Truth of Makeup
-Whenever I want to try a new cosmetic item, it is difficult for me to choose which highlighter, makeup palette I would want taking into consideration is it an ethical brand. After reading so numerous articles and videos regarding the ugly truth behind the makeup industry, it made me think why aren't there more information about this and why doesn't more consumers know about this. We know that most of the information we need here would be at the back of the cosmetic or somewhere on a website. But.. it's really hard to know which ingredients from the long list is linked to unethical practices such as child labor and more unless you are a chemist, or someone who deals with the production of getting these ingredients.
+## 1.Makeup
+Whenever I want to try a new cosmetic item, it is difficult for me to choose which highlighter, makeup palette I would want taking into consideration if it is an ethical brand. After reading so numerous articles and videos regarding the ugly truth behind the makeup industry, it made me think why aren't there more information about this and why doesn't more consumers know about this. We know that most of the information we need here would be at the back of the cosmetic or somewhere on a website. But.. it's really hard to know which ingredients from the long list is linked to unethical practices such as child labor and more unless you are a chemist, or someone who deals with the production of getting these ingredients.
 
 So instead of just being worried if my favorite makeup brands are using ingredients linked to unethical practices, I decided to analyze how much of these ingredients are in theses products.
 
